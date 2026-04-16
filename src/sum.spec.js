@@ -1,4 +1,4 @@
-const sum = require('./soma');
+const sum = require('./sum');
 
 describe('soma.js', () => {
   it('deve retornar 5 quando somar 2 + 3', () => {
